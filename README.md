@@ -98,7 +98,7 @@ This project is developed strictly for **educational purposes** in a controlled 
 
 ## 🔗 Connect with Me
 
-- LinkedIn: (your link)
+- LinkedIn: https://www.linkedin.com/in/syed-ashir-209b39351/
 - GitHub: https://github.com/Syed-Ashir-Nasveer
 
 ---
